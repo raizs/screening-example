@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
     Um pequeno sapo quer chegar ao outro lado de uma estrada.
     Inicialmente o sapo está localizado na posição X e quer chegar a uma
@@ -26,7 +27,7 @@
         X <= Y
 '''
 
-def solution(A, B):
+def solution(X, Y, D):
     return
 
 inputs = [
